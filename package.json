@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-sprite-svg-inline",
+  "version": "0.0.0",
+  "description": "It let's you to add your sprite.svg file into the nuxt build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gardemm/nuxt-sprite-svg-inline.git"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxtjs",
+    "svg",
+    "sprite",
+    "inject"
+  ],
+  "author": "gardem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gardemm/nuxt-sprite-svg-inline/issues"
+  },
+  "homepage": "https://github.com/gardemm/nuxt-sprite-svg-inline#readme"
+}
