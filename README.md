@@ -1,7 +1,5 @@
 # nuxt-sprite-svg-inline
 
-# Гордое название проекта
-
 [![npm version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 
