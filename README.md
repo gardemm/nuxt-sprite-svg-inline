@@ -1,8 +1,11 @@
 # nuxt-sprite-svg-inline
 
+[![Build status][travis-image]][travis-url]
 [![current version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 
+[travis-image]: https://img.shields.io/travis/gardemm/nuxt-sprite-svg-inline.svg.svg?style=flat-square
+[travis-url]: https://travis-ci.org/gardemm/nuxt-sprite-svg-inline.svg
 [npm-image]: https://img.shields.io/npm/v/nuxt-sprite-svg-inline.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/nuxt-sprite-svg-inline
 [downloads-image]: http://img.shields.io/npm/dm/nuxt-sprite-svg-inline.svg?style=flat-square
