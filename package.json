@@ -1,6 +1,6 @@
 {
   "name": "nuxt-sprite-svg-inline",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Add sprite.svg file into the nuxt build",
   "main": "index.js",
   "scripts": {
