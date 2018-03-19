@@ -1,6 +1,6 @@
 # nuxt-sprite-svg-inline
 
-[![npm version][npm-image]][npm-url]
+[![current version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 
 [npm-image]: https://img.shields.io/npm/v/nuxt-sprite-svg-inline.svg?style=flat-square
@@ -39,7 +39,11 @@ Then, you can display it like this:
 Install:
 
 ```bash
-yarn add nuxt-sprite-svg-inline # or npm install -D nuxt-sprite-svg-inline
+# with npm
+npm install -D nuxt-sprite-svg-inline
+
+# with yarn
+yarn add nuxt-sprite-svg-inline 
 ```
 
 Register it on your `nuxt.config.js`:
